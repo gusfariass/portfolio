@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+About this site
+quarto render
+
+
+git init
+git remote add origin https://github.com/gusfariass/portfolio.git
+git add .
+git commit -m "Primeira versão do portfolio ou site"
+git branch -M main
+git push -u origin main

@@ -1,0 +1,10 @@
+---
+title: "Web Site project"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+git remote add origin https://github.com/gusfariass/portfolio.git
+git status
