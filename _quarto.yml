@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: "."
 website:
   title: "Web Site project"
   navbar:
@@ -16,6 +16,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 
