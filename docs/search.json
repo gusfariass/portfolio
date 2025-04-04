@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site quarto render\ngit init git remote add origin https://github.com/gusfariass/portfolio.git git add . git commit -m “Primeira versão do portfolio ou site” git branch -M main git push -u origin main"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Web Site project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\ngit remote add origin https://github.com/gusfariass/portfolio.git git status"
+  }
+]
